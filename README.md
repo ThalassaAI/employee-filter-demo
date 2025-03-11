@@ -1,1 +1,9 @@
-A simple JavaScript project showcasing the use of the filter function to dynamically filter a list of employees based on gender. This project leverages HTML for structure, Bootstrap 5.3.3 for responsive styling and layout, and JavaScript for interactive functionality. Users can seamlessly sort and display employee data through a clean, modern interface, demonstrating practical application of array methods in JavaScript alongside Bootstrap's powerful CSS framework.
+# employee-filter-demo
+
+- A simple JavaScript project using the `filter` function
+- Dynamically filters a list of employees by gender
+- Built with HTML for structure
+- Styled with Bootstrap 5.3.3 for responsive design
+- Powered by JavaScript for interactivity
+- Displays employee data in a clean, modern interface
+- Showcases JavaScript array methods and Bootstrap's CSS framework
